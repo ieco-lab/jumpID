@@ -17,15 +17,15 @@ Use this package to identify and analyze dispersal jumps, diffusive spread and s
 
 ### If you wish to visualize the tutorial only  
 2 options:  
-* Access the “Articles” tab of the <a href="https://nbelouard.github.io/jumpID">jumpID GitHub website</a>    
-* Download the PDF tutorial in the vignettes folder of the <a href="https://github.com/nbelouard/jumpID">jumpID GitHub repository</a>
+* Access the “Articles” tab of the <a href="https://ieco-lab.github.io/jumpID">jumpID GitHub website</a>    
+* Download the PDF tutorial in the vignettes folder of the <a href="https://github.com/ieco-lab/jumpID">jumpID GitHub repository</a>
 
 
 ### If you wish to install the package and execute the tutorial  
 In the R terminal tab, cd to the folder where you want to store the project, and type:
 
 ```
-git clone https://github.com/nbelouard/jumpID.git
+git clone https://github.com/ieco-lab/jumpID.git
 ```
 
 Access the content of the package by opening the `jumpID.Rproj` file in Rstudio. Install jumpID by typing in the R console:
@@ -41,7 +41,7 @@ Finally, open the tutorial file (.Rmd) in the vignettes folder, and execute the 
 Install the package by typing the following line of code in the R console:
 
 ```r 
-devtools::install_github("nbelouard/jumpID", dependencies = TRUE)
+devtools::install_github("ieco-lab/jumpID", dependencies = TRUE)
 library(jumpID)
 ```
 
