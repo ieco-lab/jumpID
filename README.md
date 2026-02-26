@@ -1,5 +1,7 @@
 # jumpID, an R package to differentiate diffusive spread and dispersal jumps in biological invasions
 
+[read the published paper here](https://doi.org/10.3897/neobiota.98.147310)
+
 ## Description
 
 While most dispersal events occur over short distances and result in a continuous species range, human-assisted dispersal promotes the occurrence of dispersal "jumps", and the establishment of satellite populations away from the core of the invasion. Distinguishing diffusive spread and jump dispersal is important to understand the process of invasion, its evolution, but also to take efficient management measures. Through a directional analysis of species occurrence data, the `jumpID` R package differentiates diffusive spread and dispersal jumps in biological invasions, and identifies secondary diffusion stemming from dispersal jumps. `jumpID` is presented as a GitHub R package applied to the example of the invasion of the spotted lanternfly in the United States.  
@@ -60,6 +62,4 @@ For more information, see the LICENSE file.
 
 ## How to cite this work
 If you use this software, please cite it as follows:
-N. Belouard, S. De Bona, M.R. Helmus,  I.G. Smith, J.E. Behm, 2024. Identifying jump 
-dispersal locations from occurrence data on invasive species spread: the case of the 
-spotted lanternfly *Lycorma delicatula*. https://ieco-lab.github.io/jumpID 
+Belouard, N., De Bona, S., Helmus, M. R., Smith, I. G., & Behm, J. E. (2025). A method to quantify jump dispersal of invasive species from occurrence data: The case of the spotted lanternfly, *Lycorma delicatula*. NeoBiota, 98, 319–334. https://doi.org/10.3897/neobiota.98.147310
